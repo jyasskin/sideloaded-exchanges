@@ -1,6 +1,6 @@
 #  Sideloaded HTTP Exchanges
 
-This is the working area for the individual Internet-Draft, " Sideloaded HTTP Exchanges".
+This is the working area for the individual Internet-Draft, "Sideloaded HTTP Exchanges".
 
 * [Editor's Copy](https://jyasskin.github.io/sideloaded-exchanges/#go.draft-yasskin-httpbis-sideloaded-exchanges.html)
 * [Individual Draft](https://tools.ietf.org/html/draft-yasskin-httpbis-sideloaded-exchanges)
