@@ -11,10 +11,13 @@ stand_alone: yes
 pi: [comments, sortrefs, strict, symrefs, toc]
 
 author:
- -
-    name: Jeffrey Yasskin
+  - name: Jeffrey Yasskin
     org: Google Inc.
     email: jyasskin@chromium.org
+  - name: Eric Rescorla
+    ins: E. Rescorla
+    org: RTFM, Inc.
+    email: ekr@rtfm.com
 
 normative:
   OriginPolicy:
